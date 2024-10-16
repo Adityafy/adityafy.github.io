@@ -12,9 +12,9 @@ title                    : "Aditya's Homepage"
 title_separator          : "-"
 name                     : &name "Aditya Raj"
 description              : &description "PhD student, Virginia Tech"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://adityafy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Adityafy/adityafy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &AdityaRxDy
 facebook:
   username               :
   app_id                 :
