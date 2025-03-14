@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Aditya's Homepage"
 title_separator          : "-"
 name                     : &name "Aditya Raj"
-description              : &description "PhD student, Virginia Tech"
+description              : &description "PhD candidate, Virginia Tech"
 url                      : https://adityafy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Adityafy/adityafy.github.io"
@@ -21,10 +21,10 @@ repository               : "Adityafy/adityafy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "aditya.jpg"
   name             : "Aditya Raj"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student, Virginia Tech"
+  bio              : "PhD candidate, Graduate Teaching Assistant, Virginia Tech"
   location         : "Blacksburg, Virginia, USA"
   employer         : "Virginia Tech"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "nonlinearady.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
