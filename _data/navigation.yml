@@ -9,12 +9,12 @@ main:
     url: /publications/
     # url: https://scholar.google.com/citations?user=SrGE94gAAAAJ&hl=en
     
+  - title: "Presentations"
+    url: /talks/ 
+
   - title: "CV"
     url: /cv/
-
-  # - title: "Talks"
-  #   url: /talks/    
-
+    
   # - title: "Teaching"
   #   url: /teaching/    
     
